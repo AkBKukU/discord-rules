@@ -1,23 +1,23 @@
-                        __   
-   *    ·              /_/          ·     
-       •       ·  /===/_/====/       · 
-            *        (__)         •     
-   ·          •      ·      *         · 
+                        __
+   *    ·              /_/          ·
+       •       ·  /===/_/====/       ·
+            *        (__)         •
+   ·          •      ·      *         ·
       •                    ·          ·
 ▄▄▄· ▄ •▄ ▄▄▄▄· ▄ •▄ ▄• ▄▌▄ •▄ ▄• ▄▌
 ▐█ ▀█ █▌▄▌▪▐█ ▀█▪█▌▄▌▪█▪██▌█▌▄▌▪█▪██▌
 ▄█▀▀█ ▐▀▀▄·▐█▀▀█▄▐▀▀▄·█▌▐█▌▐▀▀▄·█▌▐█▌
 ▐█ ▪▐▌▐█.█▌██▄▪▐█▐█.█▌▐█▄█▌▐█.█▌▐█▄█▌
- ▀  ▀ ·▀  ▀·▀▀▀▀ ·▀  ▀ ▀▀▀ ·▀  ▀ ▀▀▀ 
+ ▀  ▀ ·▀  ▀·▀▀▀▀ ·▀  ▀ ▀▀▀ ·▀  ▀ ▀▀▀
 ·     • ·           ·              ·
-              *           •           ·   
-   *    ·                        *     
-           ·      •        ·        
+              *           •           ·
+   *    ·                        *
+           ·      •        ·
   ·                 ·              ·  ·
    .   ▄▄▄▄▄▄███████████████▄▄▄▄▄     *
 ▄▄██▀▀▀▀▀▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▀▀▀▀▀██▄▄
-▀╫╫╫╫╫╫╫µµ  ... --. .--- µµµ╫╫╫╫╫╫µµ   ▀      
-╫╫╫╫╫╫╫µµ.---- ...-- ...-- --...µµµ╫╫µµµ      
+▀╫╫╫╫╫╫╫µµ  ... --. .--- µµµ╫╫╫╫╫╫µµ   ▀
+╫╫╫╫╫╫╫µµ.---- ...-- ...-- --...µµµ╫╫µµµ
 
 ╔═════════════════════════════════════╗
 ║ This is the Discord server for the  ║
@@ -32,7 +32,7 @@
 ║                                     ║
 ║ Github:                             ║
 ║ https://github.com/AkBKukU          ║
-║                                     ║ 
+║                                     ║
 ║ Thingiverse:                        ║
 ║ https://www.thingiverse.com/AkBKukU ║
 ║                                     ║
@@ -45,7 +45,7 @@
 ║             The Rules               ║
 ╟─────────────────────────────────────╢
 ║ 1. No Spam                          ║
-║ 2. Ne Nice                          ║
+║ 2. Be Nice                          ║
 ║ 3. Use #the-dmz for off topic posts ║
 ║ 4. Don't ask AkBKukU about Druaga1  ║
 ║ 5. There will be no custom colors   ║
@@ -53,7 +53,7 @@
 ╟─────────────────────────────────────╢
 ║ As a general note, please don't ask ║
 ║ if I can repair  something for you. ║
-║ It's  an  uncomfortable   situation ║    
+║ It's  an  uncomfortable   situation ║
 ║ with possible  liabilities I do not ║
 ║ want.  Two way shipping especially. ║
 ║ It's not a matter of cost or time I ║

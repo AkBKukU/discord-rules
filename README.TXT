@@ -51,12 +51,20 @@
 ║ 5. There will be no custom colors   ║
 ║ 6. Keep posts SFW, even in #the-dmz ║
 ╟─────────────────────────────────────╢
-║ As a general note, please don't ask ║
-║ if I can repair  something for you. ║
-║ It's  an  uncomfortable   situation ║
-║ with possible  liabilities I do not ║
-║ want.  Two way shipping especially. ║
-║ It's not a matter of cost or time I ║
-║ just don't want that responsibility ║
+║          --==| Mail |==--           ║
+║ I don't  currently have an  address ║
+║ I can give viewers who want to send ║
+║ items.  As the my  channel grows in ║
+║ the future I may be able to  justiy ║
+║ getting  a  P.O. Box  that I  could ║
+║ publically give the address out for ║
+║                                     ║
+║ Please  don't ask  if I can  repair ║
+║ something   for   you.    It's   an ║
+║ uncomfortable    situation     with ║
+║ possible liabilities I do not want. ║
+║ Two way shipping especially.   It's ║
+║ not a matter of cost or time I just ║
+║ don't   want  that   responsibility ║
 ╚═════════════════════════════════════╝
 

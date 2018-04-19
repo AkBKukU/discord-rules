@@ -50,6 +50,7 @@
 ║ 4. Don't ask AkBKukU about Druaga1  ║
 ║ 5. There will be no custom colors   ║
 ║ 6. Keep posts SFW, even in #the-dmz ║
+║ 7. No brigading/raids/harassment    ║
 ╟─────────────────────────────────────╢
 ║          --==| Mail |==--           ║
 ║ I don't  currently have an  address ║

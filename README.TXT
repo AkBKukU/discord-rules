@@ -54,8 +54,8 @@
 ║          --==| Mail |==--           ║
 ║ I don't  currently have an  address ║
 ║ I can give viewers who want to send ║
-║ items.  As the my  channel grows in ║
-║ the future I may be able to justify ║
+║ items.  As the channel grows in the ║
+║ future  I  may be  able to  justify ║
 ║ getting  a  P.O. Box  that I  could ║
 ║ publicly  give the  address out for ║
 ║                                     ║

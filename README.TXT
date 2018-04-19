@@ -66,5 +66,12 @@
 ║ Two way shipping especially.   It's ║
 ║ not a matter of cost or time I just ║
 ║ don't   want  that   responsibility ║
+╟─────────────────────────────────────╢
+║     --==| Friend Requests |==--     ║
+║ I'm not able to accept every single ║
+║ server member's friend request.  So ║
+║ please do not ask if I  will accept ║
+║ your request.  The only fair way to ║
+║ handle  them  to  not  accept  any. ║
 ╚═════════════════════════════════════╝
 

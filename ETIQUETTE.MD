@@ -22,7 +22,7 @@ can learn from someone else.
 
 ## Links are king
 If you find something particularly interesting on a website, share your source.
-Playing (telephone)[https://en.wikipedia.org/wiki/Chinese_whispers] by relaying
+Playing [telephone](https://en.wikipedia.org/wiki/Chinese_whispers) by relaying
 the page to make yourself seem smart is not helpful. 
 
 

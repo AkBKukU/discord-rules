@@ -16,5 +16,5 @@ A: "I prefer Vim"
 B: "Vim sucks, Emacs is better"
 ```
 
-Healthy debates about such topic are encouraged though. You never no what you 
+Healthy debates about such topic are encouraged though. You never know what you 
 can learn from someone else. 

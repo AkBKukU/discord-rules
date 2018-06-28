@@ -51,6 +51,7 @@
 ║ 5. There will be no custom colors   ║
 ║ 6. Keep posts SFW, even in #the-dmz ║
 ║ 7. No brigading/raids/harassment    ║
+║ 8. Follow Etiquette                 ║
 ╟─────────────────────────────────────╢
 ║          --==| Mail |==--           ║
 ║ I don't  currently have an  address ║

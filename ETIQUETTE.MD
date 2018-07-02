@@ -50,7 +50,7 @@ a thing I bought"
 
 ### the-dmz
 Memes, arguments with no possible resolution, low brow humor, talking for
-talkings sake, and politics should all go here.
+talkings sake, fact dumps without context, and politics should all go here.
 
 As note about politics; friendly discussion is fine, but things tend to get
 heated. This usually makes others feel uncomfortable about joining it, which is

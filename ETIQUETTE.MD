@@ -62,3 +62,24 @@ case-by case basis.
 
 
 
+
+## Choosing a Channel to Post In
+
+This might seem self explanatory but I would like expand upon this. The nature 
+of Discord is sequential messages in finite parallel paths. So there are a 
+limited number of places you can begin a discussion. By contrast, Reddit has 
+infinite parallel messages in infinite parallel paths. And a forum would have 
+sequential messages in infinite parallel paths. Discord is slightly unusual 
+compared to other forms of high volume discussion in that there isn't a unique 
+place for you to go to start a conversation. 
+
+So given your limited choices, what do you do if the channel with the topic 
+related to the discussion you would like to have is busy? The only socially 
+acceptable answer that doesn't violate rules, is to wait. Each channel has a 
+topic for a reason. If not, then they may as well be called chat rooms with 
+numbers and people would just end up bouncing between rooms with no sense of 
+organization. Adding extra channels such as "Tech 1", "Tech 2", etc is fighting 
+against the very nature of what Discord is. 
+
+
+

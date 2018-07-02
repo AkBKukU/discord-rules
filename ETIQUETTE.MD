@@ -81,5 +81,19 @@ numbers and people would just end up bouncing between rooms with no sense of
 organization. Adding extra channels such as "Tech 1", "Tech 2", etc is fighting 
 against the very nature of what Discord is. 
 
+A discussion could be considered busy if there is an ongoing conversation with 
+several people involved where adding a message unrelated to the discussion 
+would clearly disrupt the flow. Most of the time channels have disjointed 
+messages that are brief discussions of something and it won't take long for it 
+to come to a conclusion.
 
-
+## Off Topic Discussion
+This happens and that is fine. Conversations naturally evolve and can become 
+about something completely different. Or something could merely be anecdotal. 
+It can be hard to tell when a conversation has become off topic when you are 
+part of it. As long as everyone in that channel is fine with that conversation 
+continuing, you don't need to worry about changing channels. But if you are 
+talking about something off topic and someone else requests that you move to 
+the appropriate channel, you should oblige that request and move. As the 
+previous section covers, they may be waiting to have a discussion in that 
+channel of their own.

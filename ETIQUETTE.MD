@@ -8,7 +8,7 @@ is "softly defined" and is not meant as a cut and dry interpretation.
 Surprisingly, this means you should be nice to eachother. Do not be dismissive
 to someone else's opinion. This is not meant to encourage "*special snowflake*"
 behavior, but to discourage unnecessary put downs. This also means no flame
-wars.
+wars or derogatory remarks.
 
 Ex
 ```

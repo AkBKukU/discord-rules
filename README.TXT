@@ -54,12 +54,14 @@
 ║ 8. Follow Etiquette                 ║
 ╟─────────────────────────────────────╢
 ║          --==| Mail |==--           ║
-║ I don't  currently have an  address ║
-║ I can give viewers who want to send ║
-║ items.  As the channel grows in the ║
-║ future  I  may be  able to  justify ║
-║ getting  a  P.O. Box  that I  could ║
-║ publicly  give the  address out for ║
+║ I have an  address to give  viewers ║
+║ wanting  to send  donations  to the ║
+║ channel. But, it is not public. You ║
+║ can say in  #channel  that you have ║
+║ something you want to send  or send ║
+║ me a DM.  If it is something I  can ║
+║ take  (I have limited  space)  then ║
+║ I'll send you the  address in a DM. ║
 ║                                     ║
 ║ Please  don't ask  if I can  repair ║
 ║ something   for   you.    It's   an ║

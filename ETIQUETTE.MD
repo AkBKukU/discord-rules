@@ -54,7 +54,7 @@ Board or video, PC or console, old or new. Games go here.
 Link to things you've made or from others. Think of this channel as a place to share stuff you would share with the "share" button in a mobile app.
 
 ### show
-Show off stuff you got, purchased, found or already own! Think of it as a place to "show and tell" about relevant things.
+Show off stuff you got, purchased, found,https://github.com/AkBKukU/discord-ruleshttps://github.com/AkBKukU/discord-rules or already own! Think of it as a place to "show and tell" about relevant things.
 
 ### the-dmz
 Memes, arguments with no possible resolution, low brow humor, talking for

@@ -1,0 +1,34 @@
+# Server information and meta.
+
+meta:
+  intro: This is the Discord Server for the Tech Tangents YouTube channel.
+  invite: https://discord.gg/E6xgGs6
+  links:
+    youtube:
+      friendly-name: YouTube
+      url: https://www.youtube.com/AkBKukU
+    github:
+      friendly-name: GitHub
+      url: https://github.com/AkBKukU
+    thingiverse:
+      friendly-name: Thingiverse
+      url: https://www.thingiverse.com/AkBKukU
+    patreon:
+      friendly-name: Patreon
+      url: https://www.patreon.com/AkBKukU
+
+notices:
+  mail:
+    title: Mail
+    body: >
+      I have an  address to give  viewers wanting  to send  donations  to the channel. But, it is not public.
+      You can say in \#channel that you have something you want to send  or send me a DM. If it is something I can 
+      take (I have limited space) then I'll send you the address in a DM. 
+      
+      Please don't ask if I can repair something for you. It's an uncomfortable situation with possible liabilities I do not want. 
+      Two way shipping especially. It's not a matter of cost or time I just don't want that responsibility.
+  friend-requests:
+    title: Friend Requests
+    body: >
+      I'm not able to accept every single server member's friend request. So please do not ask if I will accept your
+      request. The only fair way to handle them is to not accept any.

@@ -1,0 +1,88 @@
+# Channel definitions
+
+categories:
+  server:
+    id: 414961513577578497
+    description: Channels relating to the server, including announcements and feedback.
+
+    channels:
+      feedback:
+        id: 430028837922013184
+        topic: Feedback or ideas about the Discord server | See Pins!
+
+      joins:
+        id: 421091070617714689
+        topic: A log of new members to the Tech Tangents community
+
+
+  general:
+    id: 414961689033834496
+    description: Public access channels accessible to all verified members.
+    
+    channels:
+      general:
+        id: 309127154220924929
+        topic: A catch-all for everything not covered by the other channels.
+
+      tech:
+        id: 431113044148486165
+        topic: Computers, electronics, multimedia, programming, and more. If electricity powers it, discuss it here.
+
+      games:
+        id: 431113073420402698
+        topic: Discuss anything about games as long as they're within rules. Linking to abandonware is not legal, check the pins!
+
+      show:
+        id: 502527667107659799
+        topic: Show off stuff you got, purchased, found, or already own! Think of it as a place to "show and tell" about relevant things. 
+
+      share:
+        id: 431122204156231680
+        topic: Share creatives by you or anyone else.
+
+      the-dmz:
+        id: 309894498119319564
+        topic: Memes, arguments with no possible resolution, low brow humor, talking for talkings sake, fact dumps without context, and politics should all go here.
+
+  os:
+    id: 748350028896272404
+    description: Channels for OS specific conversations.
+
+    channels:
+      dos:
+        id: 748351645565452370
+        topic: DOS related conversations
+      
+      win-dos:
+        id: 748351804961718393
+        topic: Windows for DOS conversations
+
+      win-nt:
+        id: 748351830395846727
+        topic: Windows NT conversations
+      
+      linux:
+        id: 748351851862163516
+        topic: Linux related conversations
+      
+      other:
+        id: 748548000820756480
+        topic: Operating system conversation that don't have a specific channel.
+
+  voice:
+    id: 748353342693965824
+    description: Our collection of voice channels
+
+    channels:
+      vc-general:
+        id: 748392744065564763
+        topic: The "no-mic" or link-sharing channel for voice channels.
+
+  supporters:
+    id: 583770178765193237
+    description: Channels for patrons of the Tech Tangents YouTube channel.
+
+    channels:
+      s-general:
+        id: 426404983575937025
+        topic: Talk about the extra content here

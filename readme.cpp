@@ -69,6 +69,7 @@ void policies::action(chat you, int subjective_judgement)
         // We will warn you to change topics or take a break if
         // you are violating rules by accident or without meaning to
         warn(you);
+        ++warnings;
     }
     else if ( kicks + subjective_judgement < 3)
     {
@@ -76,6 +77,7 @@ void policies::action(chat you, int subjective_judgement)
         // will be kicked to make sure you understand that you are not
         // opperating within the rules of the server.
         kick(you);
+        ++kicks;
     }else{
         // If you continue to be a problem or do something egregiously
         // bad then you will be baned. There is no appeal process. If you

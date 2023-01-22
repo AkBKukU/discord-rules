@@ -27,7 +27,7 @@ the page to make yourself seem smart is not helpful.
 
 
 ## Don't Undermine Mods
-The mods are here to make a pleasent envoirnment for everyone. Do not actively
+The mods are here to make a pleasant environment for everyone. Do not actively
 question authoritative actions by the mods. If they say something is not
 appropriate for the server then it needs to be let go.
 

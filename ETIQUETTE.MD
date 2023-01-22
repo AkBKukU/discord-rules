@@ -27,7 +27,7 @@ the page to make yourself seem smart is not helpful.
 
 
 ## Don't Undermine Mods
-The mods are here to make a pleasent envoirnment for everyone. Do not actively
+The mods are here to make a pleasant environment for everyone. Do not actively
 question authoritative actions by the mods. If they say something is not
 appropriate for the server then it needs to be let go.
 
@@ -44,8 +44,7 @@ For talking about specific videos or anything related to the Youtube channel or
 its production.
 
 ### tech
-Computers, electronics, multimedia, programming, and more. If electricity powers
-it, discuss it here.
+Computers, electronics, multimedia, programming, and more. If electricity powers it, discuss it here.
 
 ### games
 Board or video, PC or console, old or new. Games go here.
@@ -60,7 +59,7 @@ Show off stuff you got, purchased, found, or already own! Think of it as a place
 Memes, arguments with no possible resolution, low brow humor, talking for
 talkings sake, fact dumps without context, and politics should all go here.
 
-As note about politics; friendly discussion is fine, but things tend to get
+As a note about politics; friendly discussion is fine, however, things tend to get
 heated. This usually makes others feel uncomfortable about joining it, which is
 why I'd like to keep general clear, so other discussions can continue.
 
@@ -68,7 +67,11 @@ What counts as political discussion will be loosely defined as "Anything
 countries typically make laws about". This will likely be determined on a
 case-by case basis.
 
+### vc-general
+Intended to be an extension of the voice channels, for posting photos, links, and some minor conversation.
 
+### Voice Channels
+General discussion pertaining to the names of the channels; as with the text channels, the same rules apply.
 
 
 ## Choosing a Channel to Post In
